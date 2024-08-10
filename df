@@ -1,0 +1,392 @@
+[33mcommit fdc16464cced772cb47dd68fc26c5f8f9b21b9d8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Fri Aug 9 23:24:54 2024 +0200
+
+    404 fix
+
+[33mcommit f40136d63eab32b374ae734ed2c101685e988c8f[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Fri Aug 9 23:17:09 2024 +0200
+
+    redux function
+
+[33mcommit a46d97362cf9eb7a7833266a863e2c6fb7f43793[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Fri Aug 9 23:09:30 2024 +0200
+
+    remove more a
+
+[33mcommit 345c65fd781c152eb5ec40f2158416356fd097fe[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Fri Aug 9 22:59:59 2024 +0200
+
+    new build
+
+[33mcommit 4fc188d123b85668988d24da5028fe1528c3b0b2[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Fri Aug 9 22:52:08 2024 +0200
+
+    fixing a
+
+[33mcommit 7b009360e0a2702aee1784b72ffc4be6a9e0ebd9[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Fri Aug 9 22:49:59 2024 +0200
+
+    fixing update error
+
+[33mcommit 4641bc405a7046a9937339786714e4a15a6edd24[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Fri Aug 9 17:49:05 2024 +0200
+
+    remove legacy
+
+[33mcommit c16a25ad7c286de4a967c551ce1755bc85d6fcef[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Fri Aug 9 17:47:37 2024 +0200
+
+    remove package react input range
+
+[33mcommit 7447b3d289f902894514f7e049fd4dc7a6622994[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Fri Aug 9 17:45:36 2024 +0200
+
+    reinstall react range
+
+[33mcommit 55538a7bb798383c4271ef9aec5802109015a40d[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Fri Aug 9 17:41:46 2024 +0200
+
+    some changes
+
+[33mcommit 68b210d9038f298c5e1a1bd13f0daaac1520cf87[m
+Merge: b9a6e33 7e27b87
+Author: Sandro Huber <68756475+shdigitalpy@users.noreply.github.com>
+Date:   Sun Feb 11 08:24:42 2024 +0100
+
+    Merge pull request #5 from shdigitalpy/feat/search-SSR
+
+[33mcommit 7e27b8786711de3f1e21d79c8eefe264d3aff3f8[m[33m ([m[1;31morigin/feat/search-SSR[m[33m)[m
+Author: Mohit Nayak <mohitn21@gmail.com>
+Date:   Sun Feb 11 03:16:20 2024 +0530
+
+    search, category SSR and product filter optimization
+
+[33mcommit e4d4d0aba9043d44bfa61595ff2f3930d18b5d57[m[33m ([m[1;31morigin/feat/homepage-SSR[m[33m)[m
+Author: Mohit Nayak <mohitn21@gmail.com>
+Date:   Sun Feb 11 01:18:33 2024 +0530
+
+    homepage switch to SSR
+
+[33mcommit b9a6e33a8fd7a27b9518b45c6b14e2e088fabcb6[m
+Merge: 00e4476 7d48730
+Author: Sandro Huber <68756475+shdigitalpy@users.noreply.github.com>
+Date:   Sat Feb 10 07:06:05 2024 +0100
+
+    Merge pull request #3 from shdigitalpy/fix/category-requests
+
+[33mcommit 7d48730a61835d1c3655c1df5c7ec19c2bb7f8cc[m
+Author: Mohit Nayak <mohitn21@gmail.com>
+Date:   Sat Feb 10 04:16:18 2024 +0530
+
+    fixed multiple get categories request from client
+
+[33mcommit 00e4476e5ed76791368ef8180be788a8e4f665e3[m
+Merge: 2a060c5 ae02cb6
+Author: Sandro Huber <68756475+shdigitalpy@users.noreply.github.com>
+Date:   Fri Feb 9 18:14:40 2024 +0100
+
+    Merge pull request #1 from shdigitalpy/feat/product-details-SSR
+
+[33mcommit ae02cb61badf085213a288cc6f663cafae855c54[m
+Author: Mohit Nayak <mohitn21@gmail.com>
+Date:   Fri Feb 9 18:04:11 2024 +0530
+
+    code cleanup and product details page switch to SSR
+
+[33mcommit 2a060c5b409fe9206a673ec719b9204bd21e99bd[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Tue Jul 5 09:57:52 2022 +0200
+
+    some changes
+
+[33mcommit f2a97934dfc355abd4d03d8b40404c2d564dfe7c[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Tue Jul 5 08:46:50 2022 +0200
+
+    some cart changes
+
+[33mcommit 62d744244c899e0ccdb8ca0dfa98d79ca944a9fb[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Fri Jul 1 10:59:18 2022 +0200
+
+    translation fix again
+
+[33mcommit 887d56999b17ade5584e781b6132772cdfac99a5[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Fri Jul 1 08:04:08 2022 +0200
+
+    datatrans live
+
+[33mcommit 7ba2a3f26ff9b1b87e039588cadedf5632f4be4c[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Fri Jul 1 07:50:12 2022 +0200
+
+    new attribute fix
+
+[33mcommit 4ef03c5717619374a9e94f156e78f5f7bce64ba4[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Thu Jun 30 20:50:28 2022 +0200
+
+    datatrans url
+
+[33mcommit fa689b9ec09cfaf1b0fdbe5fcd24f0a629b84d10[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Thu Jun 30 20:41:47 2022 +0200
+
+    change api url
+
+[33mcommit 1d10b0ca332ccb14a6429ca02c7e6de21a535b92[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Wed Jun 29 14:36:04 2022 +0200
+
+    spelling
+
+[33mcommit 8c989aca73065ec836f09f1c0fc0a848461d52da[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Wed Jun 29 14:30:35 2022 +0200
+
+    change datatrans
+
+[33mcommit 64d801be867fb7bf32141b02b4eb472d7bab3511[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Wed Jun 29 13:32:18 2022 +0200
+
+    remove stripe
+
+[33mcommit d8914922dffbabecdd0fdcf5952322443185c6b4[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Wed Jun 29 13:29:25 2022 +0200
+
+    remove translation cart
+
+[33mcommit c4cf4a89a332e3d7f1a73770f9fbaa3f7e2baa8c[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Wed Jun 29 13:11:05 2022 +0200
+
+    attribute error
+
+[33mcommit 29f41a6515187b0686fc2dd0cb56b73125ecb53c[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Thu Jun 23 17:39:43 2022 +0200
+
+    payment and attribute
+
+[33mcommit b17ad5a4bde59398c3601c4c239a74818182be41[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Mon May 30 16:45:29 2022 +0200
+
+    minor rename
+
+[33mcommit 56e307f305ec4878809ca4f18db8b5827452d51d[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Mon May 30 16:43:32 2022 +0200
+
+    my account translations
+
+[33mcommit 045282c2668cf916eef9e640f2b3d91569c26d9c[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Mon May 30 13:50:18 2022 +0200
+
+    cart total
+
+[33mcommit 90090498cfcce8cc02809b3de83bb0aa38a21b3d[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Mon May 30 13:34:50 2022 +0200
+
+    footer
+
+[33mcommit 676a0e87af6ab776729cc2475ab89f78fea4a135[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Mon May 30 13:32:35 2022 +0200
+
+    changes cart & price
+
+[33mcommit 25f1753a2a4a30afa68f669202f6dce5af6a42d4[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Fri May 27 19:26:57 2022 +0200
+
+    amend schema
+
+[33mcommit 5353b69772b1cb75630cee62e5c08826f878fc9a[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Fri May 27 19:18:28 2022 +0200
+
+    schema product
+
+[33mcommit c9670a22cb6ff80163254a611ec8a0ee101914fb[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Fri May 27 19:02:17 2022 +0200
+
+    seo products
+
+[33mcommit 933d11ee6caa7e6da715ff4e30284b51f28b5947[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Fri May 27 17:24:21 2022 +0200
+
+    more seo stuff
+
+[33mcommit c442cf199e46462a50c87b097283ffcd57db4407[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Fri May 27 16:37:55 2022 +0200
+
+    seo category fixes
+
+[33mcommit 543ae779323431368bb175e0ca514b75c2adc365[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Fri May 27 16:26:56 2022 +0200
+
+    meta seo category
+
+[33mcommit bab43926ab79249f66b437ff6e2ac3cf569d887b[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Fri May 27 14:50:53 2022 +0200
+
+    header bottom
+
+[33mcommit 65fdbd11dbdbd0b271043c64dad981394a7bc7eb[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Fri May 27 14:00:11 2022 +0200
+
+    shipping price calculation
+
+[33mcommit 5aa8ab6c5b5252fd2cec4c668b3a52d0c11265ce[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Fri May 27 11:00:18 2022 +0200
+
+    layout and mobile menu
+
+[33mcommit 4e9166ff589cb43170762edd2f572b67e0fbdc1f[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Fri May 27 09:47:48 2022 +0200
+
+    layout changes
+
+[33mcommit 7531944cde6b0de91e81595d30317ff87dfdebd7[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Wed May 25 20:50:20 2022 +0200
+
+    footer changes
+
+[33mcommit f83af2f082caf561a1db48cce72029d005d81874[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Wed May 25 20:49:10 2022 +0200
+
+    category, intro1
+
+[33mcommit 268f7a755c8e38362b4152bdef60080e622eb1d2[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Wed May 25 17:11:00 2022 +0200
+
+    site verification
+
+[33mcommit 27db23c6049cb3bc4dc23cb8effcd01d3a7c33b2[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Wed May 25 15:16:15 2022 +0200
+
+    layout changes
+
+[33mcommit 095780337bede60092729c4a1ff50076e56258b7[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Wed May 25 14:54:21 2022 +0200
+
+    banner
+
+[33mcommit c49aaa5ee7b321f4220cb1bfe806dbf37abfe83b[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Tue May 24 08:00:49 2022 +0200
+
+    url and price
+
+[33mcommit 8443006e93e15d59525b664ce86b6ea1b638456f[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Wed May 11 11:27:00 2022 +0200
+
+    space payment
+
+[33mcommit 6be18c0c1343f1d60524309cb620d7a13b753c1c[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Tue May 10 14:08:15 2022 +0200
+
+    action translations
+
+[33mcommit d429b696e4a3aecb3d70f3ab4ffd692f9dedd56b[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Mon May 9 14:17:27 2022 +0200
+
+    checkout layout & product minor
+
+[33mcommit 4da16c372bdaa0868443f7a846c182d8214c311e[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Mon May 9 12:08:00 2022 +0200
+
+    slider and text
+
+[33mcommit 7d466e547a6a2feaa4a15681d27ed2fb1d037b2f[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Mon May 9 11:51:44 2022 +0200
+
+    translations & buttons
+
+[33mcommit 34aafa4c43f19fcc865cb096e2877e69b208ae9c[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Mon May 9 11:34:27 2022 +0200
+
+    translations
+
+[33mcommit 3ce254f8f069466b675e3261181e6e78ad2dd01e[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Sun May 8 14:43:33 2022 +0200
+
+    change footer
+
+[33mcommit fc7f6732f64dab8b33d66c016e0f5777bc2592c4[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Sat May 7 23:03:15 2022 +0200
+
+    update
+
+[33mcommit c3460ed5c8158b0efe8b2106b83d5a730028b34a[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Fri May 6 17:13:14 2022 +0200
+
+    design and menu changes
+
+[33mcommit f17e6dd42b4a6ed54fb55ac6a656a4952896df5c[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Thu May 5 22:42:00 2022 +0200
+
+    design changes
+
+[33mcommit 2961ec4b74d5ffe9943cec878150f5ba948007bf[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Thu May 5 13:52:04 2022 +0200
+
+    logo
+
+[33mcommit adf1051d0b7320a669f7d669dd4f88230863f19d[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Tue May 3 16:54:49 2022 +0200
+
+    change logo
+
+[33mcommit 7c04b31bdc56dc69d6c04043d8c13e8002d3d9c7[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Thu Apr 7 17:17:14 2022 +0200
+
+    content footer
+
+[33mcommit 3022d59014bb332d97270995a5ad4a8aab15528b[m
+Author: Sandro Huber <sandro@sh-digital.ch>
+Date:   Thu Apr 7 16:47:54 2022 +0200
+
+    initial
